@@ -88,13 +88,19 @@ This dataset is ideal for: [cite: 265, 266, 267]
 
 The project is organized as follows:
 ├── data/
-│   └── cybersecurity_data.csv  # Dataset
+
+│   └── cybersecurity_data.csv 
+# Dataset
 │
 ├── notebooks/
+
 │   └── <notebook_name>.ipynb  # Jupyter Notebooks
+
 │
 ├── scripts/
-│   └── <script_name>.py       # Python scripts
+
+│   └── <script_name>.py 
+# Python scripts
 │
 └── README.md
 
